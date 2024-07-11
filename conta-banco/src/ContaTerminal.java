@@ -23,7 +23,7 @@ public class ContaTerminal {
         nomeCliente, agencia, numero, saldo);
 
         //Obter pela scanner os valores digitados no terminal
-        scanner.close();
+        scanner.close()
         
         //Exibir a mensagem conta criada
     }
